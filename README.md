@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Oluwabukunmi</h1>
+<h1 align="center">Hi 👋, I'm OxGutzzz</h1>
 <h3 align="center">An aspiring cybersecurity analyst and a noobie bug bounty hunter</h3>
 
-- 🔭 I’m currently working on [an Remote access control simulation using a phishing mail](https://github.com/Daoist-07/Personal-project-.git)
+- 🔭 I’m currently working on [an Remote access control simulation using a phishing mail](https://github.com/Daoist-07/Personal-project-.git) & Smart Contract Auditing
 
-- 🌱 I’m currently learning **Owasp top 10, vulnerability exploitation**
+- 🌱 I’m currently learning **Owasp top 10, vulnerability exploitation, smart contract auditing**
 
-- 👯 I’m looking to collaborate on **bug bounties on hackerone & bugcrowd**
+- 👯 I’m looking to collaborate on **smart contract audits on code4rena & codehawks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Daoist-07/Personal-project-.git](https://github.com/Daoist-07/Personal-project-.git)
 
