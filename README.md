@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm OxGutzzz</h1>
-<h3 align="center">An aspiring cybersecurity analyst and a noobie bug bounty hunter</h3>
+<h3 align="center">An aspiring cybersecurity analyst and an aspiring web3 security researcher</h3>
 
 - 🔭 I’m currently working on [an Remote access control simulation using a phishing mail](https://github.com/Daoist-07/Personal-project-.git) & Smart Contract Auditing
 
