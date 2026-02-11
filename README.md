@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://code4rena.com/_next/image?url=https%3A%2F%2Fapi-v1.code4rena.com%2Favatars%2F0xGutzzz&w=384&q=75" />
-</p>
+
 
 <h1 align="center"> 0xGutzzz</h1>
 
@@ -31,7 +29,7 @@ Smart Contract Security Researcher
 
 | № | Date | Project | Category | Vulnerabilities | Report | Language |
 |---|------|--------|----------|----------------|--------|---------|
-| 1 | 03.2025 | Crestal Network | Staking | 1H | [📄](findings/Crestal-Network-Report.pdf) | Solidity |
+| 1 | 03.2025 | Crestal Network | Staking | 1H | [📄](https://github.com/Daoist-07/Audit-Reports/blob/main/findings/Crestal-Network-Report.pdf) | Solidity |
 | 2 | 09.2025 | GTE Perps & Launchpad |Perps & Launchpad | 1H | 📄 | Solidity |
 | 3 | 12.2024 | SukukuFi | Vaults | 1H | 📄 | Solidity |
 | 4 | 12.2025 | GardenFi | Bridge | 1M | 📄 | Solidity, Cairo, Rust |
