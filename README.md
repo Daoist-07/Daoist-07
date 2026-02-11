@@ -1,20 +1,75 @@
-<h1 align="center">Hi 👋, I'm OxGutzzz</h1>
-<h3 align="center">An aspiring cybersecurity analyst and an aspiring web3 security researcher</h3>
-
-- 🔭 I’m currently working on [an Remote access control simulation using a phishing mail](https://github.com/Daoist-07/Personal-project-.git) & Smart Contract Auditing
-
-- 🌱 I’m currently learning **Owasp top 10, vulnerability exploitation, smart contract auditing**
-
-- 👯 I’m looking to collaborate on **smart contract audits on code4rena & codehawks**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Daoist-07/Personal-project-.git](https://github.com/Daoist-07/Personal-project-.git)
-
-- 📫 How to reach me **onasoluwabukunmi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/0xgutzzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xgutzzz" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://code4rena.com/_next/image?url=https%3A%2F%2Fapi-v1.code4rena.com%2Favatars%2F0xGutzzz&w=384&q=75" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<h1 align="center"> 0xGutzzz</h1>
+
+<p align="center">
+Smart Contract Security Researcher 
+</p>
+
+<p align="center">
+ Warden at Code4rena, Guard at DualGuards,
+14 H/M s found so far with $1.7K+ in earnings
+</p>
+
+---
+
+## About Me
+
+- I do smart contract audits
+- Check me out on [Code4rena](https://code4rena.com/@0xGutzzz)
+
+**Contact**
+- Twitter: [X](https://twitter.com/0xGutzzz)
+- Telegram: [TG](https://t.me/yourhandle)
+- Audit requests: You can DM me on  [X](https://twitter.com/0xGutzzz)
+
+---
+
+## Public Audits
+
+| № | Date | Project | Category | Vulnerabilities | Report | Language |
+|---|------|--------|----------|----------------|--------|---------|
+| 1 | 03.2025 | Crestal Network | Staking | 1H | [📄](findings/Crestal-Network-Report.pdf) | Solidity |
+| 2 | 09.2025 | GTE Perps & Launchpad |Perps & Launchpad | 1H | 📄 | Solidity |
+| 3 | 12.2024 | SukukuFi | Vaults | 1H | 📄 | Solidity |
+| 4 | 12.2025 | GardenFi | Bridge | 1M | 📄 | Solidity, Cairo, Rust |
+| 5 | 12.2025 | AlignerZ | NFTs & Vesting | 8H/1M | 📄 |  Solidity |
+| 6 | 01.2026 | AlignerZ| NFTs & Vesting | 1M | 📄 | Solidity |
+
+---
+
+## Team Audits
+
+Under Construction 👷🏻‍♂️ 
+
+---
+
+## Competitive Audits
+
+| Platform | Findings | Rank |
+|---------|---------|------|
+| Sherlock | 1 H  | Top 25 in the Crestal Network Contest |
+| Code4rena | 2 H / 1 M | 95th rank on the 90 day leaderboard |
+| DualGaurds | 8H / 2M | 👷🏻‍♂️ |
+
+---
+
+## Skills
+
+- Solidity / Foundry / Hardhat
+- DeFi protocol design review
+- Invariant testing
+- Formal reasoning & attack surface analysis
+
+
+---
+
+
+
+---
+
+<p align="center">
+Open for private audit engagements
+</p>
