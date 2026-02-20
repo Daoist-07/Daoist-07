@@ -56,7 +56,7 @@ Under Construction 👷🏻‍♂️
 
 ## Skills
 
-- Solidity / Foundry / Hardhat
+- Solidity / Foundry / Hardhat / Python / JavaScript
 - DeFi protocol design review
 - Invariant testing
 - Formal reasoning & attack surface analysis
