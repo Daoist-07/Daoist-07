@@ -32,7 +32,7 @@ Smart Contract Security Researcher
 | 1 | 03.2025 | Crestal Network | Staking | 1H | [📄](https://github.com/Daoist-07/Audit-Reports/blob/main/findings/Crestal-Network-Report.pdf) | Solidity |
 | 2 | 09.2025 | GTE Perps & Launchpad |Perps & Launchpad | 1H | [📄](https://code4rena.com/reports/2025-08-gte-perps-and-launchpad) | Solidity |
 | 3 | 12.2024 | SukukuFi | Vaults | 1H | 👷🏻‍♂️ | Solidity |
-| 4 | 12.2025 | GardenFi | Bridge | 1M | 👷🏻‍♂️ | Solidity, Cairo, Rust |
+| 4 | 12.2025 | GardenFi | Bridge | 1M | [📄](https://code4rena.com/reports/2025-11-garden) | Solidity, Cairo, Rust |
 | 5 | 12.2025 | AlignerZ | NFTs & Vesting | 8H/1M | 👷🏻‍♂️ |  Solidity |
 | 6 | 01.2026 | AlignerZ| NFTs & Vesting | 1M | [📄](https://github.com/dualguard/2026-01-pre-launch-bug-bounty-alignerz/issues/25) | Solidity |
 
