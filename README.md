@@ -20,7 +20,7 @@ Smart Contract Security Researcher
 
 **Contact**
 - Twitter: [X](https://twitter.com/0xGutzzz)
-- Telegram: [TG](https://t.me/yourhandle)
+- Telegram: [TG](https://t.me/OxGutzzz)
 - Audit requests: You can DM me on  [X](https://twitter.com/0xGutzzz)
 
 ---
@@ -49,7 +49,7 @@ Under Construction 👷🏻‍♂️
 | Platform | Findings | Rank |
 |---------|---------|------|
 | Sherlock | 1 H  | Top 25 in the Crestal Network Contest |
-| Code4rena | 2 H / 1 M | 95th rank on the 90 day leaderboard |
+| Code4rena | 2 H / 1 M | 146th rank on the 90 day leaderboard |
 | DualGaurds | 8H / 2M | 👷🏻‍♂️ |
 
 ---
